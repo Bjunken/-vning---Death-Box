@@ -1,0 +1,16 @@
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\bin\Debug\net10.0\DeathBox.exe
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\bin\Debug\net10.0\DeathBox.deps.json
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\bin\Debug\net10.0\DeathBox.runtimeconfig.json
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\bin\Debug\net10.0\DeathBox.dll
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\bin\Debug\net10.0\DeathBox.pdb
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.AssemblyInfoInputs.cache
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.AssemblyInfo.cs
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.csproj.CoreCompileInputs.cache
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.sourcelink.json
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.dll
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\refint\DeathBox.dll
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.pdb
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.genruntimeconfig.cache
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\ref\DeathBox.dll
+D:\Repos\Skoluppgifter - YH backend\Lektioner & Övningar\Övning - Deathbox\DeathBox\DeathBox\obj\Debug\net10.0\DeathBox.csproj.Up2Date
