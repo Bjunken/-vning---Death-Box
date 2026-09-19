@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23D89B91-7B57-47D6-8483-60DE2A1F36AD}|DeathBox\\DeathBox.csproj|d:\\repos\\skoluppgifter - yh backend\\lektioner \u0026 \u00F6vningar\\\u00F6vning - deathbox\\deathbox\\deathbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D89B91-7B57-47D6-8483-60DE2A1F36AD}|DeathBox\\DeathBox.csproj|solutionrelative:deathbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|d:\\repos\\skoluppgifter - yh backend\\lektioner \u0026 \u00F6vningar\\\u00F6vning - deathbox\\deathbox\\deathbox\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|solutionrelative:deathbox\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|d:\\repos\\skoluppgifter - yh backend\\lektioner \u0026 \u00F6vningar\\\u00F6vning - deathbox\\deathbox\\deathbox\\combatlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|solutionrelative:deathbox\\combatlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|d:\\repos\\skoluppgifter - yh backend\\lektioner \u0026 \u00F6vningar\\\u00F6vning - deathbox\\deathbox\\deathbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39F31B6-11B1-BF07-0269-4D7F1C863C71}|DeathBox\\DeathBox.csproj|solutionrelative:deathbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\Menu.cs",
+              "RelativeDocumentMoniker": "DeathBox\\Menu.cs",
+              "ToolTip": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\Menu.cs",
+              "RelativeToolTip": "DeathBox\\Menu.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAAAJUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:37:11.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "combatLogic.cs",
+              "DocumentMoniker": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\combatLogic.cs",
+              "RelativeDocumentMoniker": "DeathBox\\combatLogic.cs",
+              "ToolTip": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\combatLogic.cs",
+              "RelativeToolTip": "DeathBox\\combatLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T14:03:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\Program.cs",
               "RelativeDocumentMoniker": "DeathBox\\Program.cs",
               "ToolTip": "D:\\Repos\\Skoluppgifter - YH backend\\Lektioner \u0026 \u00D6vningar\\\u00D6vning - Deathbox\\DeathBox\\DeathBox\\Program.cs",
               "RelativeToolTip": "DeathBox\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA6wCIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T15:17:07.896Z",
               "EditorCaption": ""

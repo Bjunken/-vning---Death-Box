@@ -1,8 +1,12 @@
-﻿namespace DeathBox
-{
-    internal class Program
-    {
+﻿using System.Xml;
+using System.IO;
+
+namespace DeathBox {
+    internal class Program {
+        // Init Json-file
+        public static string filePath = Path.Combine(AppContext.BaseDirectory, "users.json");
         static void Main(string[] args) {
+            /*
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("╔══════════════════════════════════════════════╗");
             Console.WriteLine("║                                              ║");
@@ -33,7 +37,7 @@
             Console.WriteLine("║                                              ║");
             Console.WriteLine("╚══════════════════════════════════════════════╝");
             Console.ResetColor();
-            /*
+            
             Använd:
             Console.ForegroundColor = ConsoleColor.Green; <- Ändrar text färg
             Console.ForegroundColor = ConsoleColor.Red; <- Ändrar text färg
@@ -46,6 +50,12 @@
 
             Tips: Parse, Random(), Lists<>, Dicts, OOP
             */
+            if (!File.Exists("users.json")) {
+                File.WriteAllText(filePath, "[]");
+            }
+
+            Menu menu = new Menu();
+            menu.mainMenu();
         }
     }
 }
